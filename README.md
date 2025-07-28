@@ -1,5 +1,7 @@
 # 🎧 Audio Language Scanner
 
+[![GitHub release](https://img.shields.io/github/v/release/ittudeitachi/Audio-Language-Scanner?label=Release)](https://github.com/ittudeitachi/Audio-Language-Scanner/releases)
+
 **Audio Language Scanner** is a Python tool that extracts a segment of audio from video files and uses [AccentGenerator](https://accentgenerator.com/) to detect the spoken language and provide a transcript.
 
 ---
